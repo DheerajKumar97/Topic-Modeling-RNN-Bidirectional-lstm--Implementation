@@ -1,1 +1,1 @@
-# Topic-Modeling-Bidirectional-lstm--Implementation--NLP
+# Topic-Modeling-Bidirectional-lstm--Implementation-
